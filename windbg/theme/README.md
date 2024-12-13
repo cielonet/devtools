@@ -31,3 +31,5 @@ This guide explains how to import a `.reg` file into the Windows Registry and mo
    ```sh
    regedit /s "C:\path\to\your\windbg.reg"
 
+#### Credit
+[Zach Burlingame](http://www.zachburlingame.com/2011/12/customizing-your-windbg-workspace-and-color-scheme/)
